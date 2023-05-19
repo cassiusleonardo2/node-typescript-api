@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cassiusleonardo2/node-typescript-api.git"
+    "url": "git+https://github.com/cassiusleonardo2/node-typescript-api"
   },
   "keywords": [
     "node.js.typescritp",
